@@ -1,0 +1,5 @@
+images/
+isolinux/
+*/**/images/
+*/**/isolinux/
+*.iso
